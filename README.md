@@ -1,1 +1,36 @@
-# Radar-design-
+# 🛰️ Raven Stars — Radar Design Module
+
+**Radar Design** is a standalone module from the Raven Stars ecosystem.  
+It simulates how machines perceive space through signal geometry, detection logic, and real-time visualization.
+
+This system is not just about scanning — it's about understanding.
+
+---
+
+## 🌌 Part of Raven Stars
+
+Raven Stars is a symbolic blockchain and perception system.  
+Radar Design is its sensory layer — modeling how entities detect and interpret motion, presence, and meaning.
+
+---
+
+## 🚀 Features
+
+- 📡 **Radar Sweep Simulation**  
+  Circular or directional scanning with adjustable angles and speed.
+
+- 🎯 **Target Detection**  
+  Simulated objects with position, velocity, and signal reflection.
+
+- 🧠 **Signal Logic**  
+  Thresholds, noise filtering, and tracking algorithms.
+
+- 🖼️ **Real-Time Visualization**  
+  Dynamic radar display using `matplotlib` or `pygame`.
+
+- 🔧 **Modular Architecture**  
+  Extendable with new sensors, environments, or AI logic.
+
+---
+
+## 📂 Structure# Radar-design-
